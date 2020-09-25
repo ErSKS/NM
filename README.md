@@ -3,10 +3,10 @@ Numerical Methods (NM)
 
 **Contact Email:** nm.khwopa@gmail.com or computer.khwopa@gmail.com
 
- ![Version](https://img.shields.io/badge/version-2.0-blue.svg)
+ ![Version](https://img.shields.io/badge/version-4.0-blue.svg)
 
 NM **Lecturer Slides**
-- [Chapter 0: NM Orientation](https://github.com/KCE/NM/blob/master/Ch0_Intro_to_Numerical_Computing.pdf)
+
 
 [NM **Assignments**](https://github.com/KCE/NM/tree/master/NM_Assignments)
 - Assignments: [#1](https://github.com/KCE/NM/blob/master/NM_Assignments/Assignment_1.pdf), [#2](https://github.com/KCE/NM/blob/master/NM_Assignments/Assignment_2.pdf), [#3](https://github.com/KCE/NM/blob/master/NM_Assignments/Assignment_3.pdf), [#4](https://github.com/KCE/NM/blob/master/NM_Assignments/Assignment_4.pdf), [#5](https://github.com/KCE/NM/blob/master/NM_Assignments/Assignment_5.pdf), #6, #7, #8, #9
